@@ -1,5 +1,3 @@
-<img width="1819" height="819" alt="image" src="https://github.com/user-attachments/assets/f40dba45-4bba-46b5-89c0-c3431668e84a" /># streamlit-mongolian-ocr-qa
-A Streamlit web application for bilingual (Mongolian/English) OCR using EasyOCR, storing results in SQLite, and enabling semantic Q&amp;A using LangChain, FAISS vector store, and Ollama (MongPT).
 # 🔍 Mongolian OCR & Q&A Database System
 
 Streamlit болон OCR ашиглан зургаас текст таньж, SQLite өгөгдлийн сан болон хиймэл оюун ухаан (LangChain + FAISS + Ollama) ашиглан хайлт хийх болон асуулт хариулт авах боломжтой вэб аппликэйшн.
